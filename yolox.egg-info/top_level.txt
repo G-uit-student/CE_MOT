@@ -1,0 +1,15 @@
+YOLOX_outputs
+assets
+build
+datasets
+deploy
+exps
+inference_output_torch
+inference_output_torch_mot17_test
+inference_output_torch_pub
+pretrained
+results
+tools
+tutorials
+videos
+yolox
